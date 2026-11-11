@@ -1,0 +1,1 @@
+This file keeps the data directory in the ZIP. The SQLite database will be created here when the app starts.
